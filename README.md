@@ -8,7 +8,13 @@ A collection of organized study logs covering a range of DevSecOps topics.
 - [HackerOne Hacktivity](https://hackerone.com/hacktivity)
 - [Awesome Bug Bounty Writeups Repo](https://github.com/devanshbatham/Awesome-Bugbounty-Writeups)
 
-## API Incidents
+## OWASP API Security Top 10
+
+## 2019 vs 2023 comparison chart
+
+![2019 vs 2023 comparison chart](images/owasp-10-2019-2023.png)
+
+### API Incidents
 
 Recent API security incidents:
 
