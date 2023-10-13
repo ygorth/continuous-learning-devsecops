@@ -13,6 +13,8 @@ A collection of organized study logs covering a range of DevSecOps topics.
 ## 2019 vs 2023 comparison chart
 
 ![2019 vs 2023 comparison chart](images/owasp-10-2019-2023.png)
+![risk score](images/owasp-10-risk-score.png)
+![risk table](images/owasp-10-risk-table.png)
 
 ### API Incidents
 
