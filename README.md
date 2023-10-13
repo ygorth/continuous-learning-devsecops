@@ -10,7 +10,7 @@ A collection of organized study logs covering a range of DevSecOps topics.
 
 ## API Incidents
 
-Stay updated with recent API security incidents:
+Recent API security incidents:
 
 - [2023 EatonWorks Toyota Research Disclosure](https://eaton-works.com/2023/02/06/toyota-gspims-hack/)
 - [2023 T-Mobile API Data Exposure](https://venturebeat.com/security/t-mobile-data-breach-shows-api-security-cant-be-ignored/)
